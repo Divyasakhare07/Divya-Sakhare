@@ -1,5 +1,3 @@
-# Divya-Sakhare
-
 <h4 align="left">Hi 👋! My name is Divya<br>I'm a Graduate student at University of South Florida.</h4>
 
 ###
@@ -42,6 +40,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Divyasakhare07/Divya-Sakhare/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Divyasakhare07/Divyasakhare07/output/snake.svg" alt="Snake animation" />
 
 ###
